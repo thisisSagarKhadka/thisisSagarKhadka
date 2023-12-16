@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar Khadka.
-- 👀 I’m interested in coding and learning new technologies
-- 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on open source contribution
+- 👀 I’m interested in coding and learning new technologies.
+- 🌱 I’m currently learning c++ and python.
+- 💞️ I’m looking to collaborate on open source contribution.
 - 📫 How to reach me thisissagarkhadka@gmail.com
 
 <!---
